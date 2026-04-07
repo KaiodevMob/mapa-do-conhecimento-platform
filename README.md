@@ -123,5 +123,5 @@ O código-fonte é privado por se tratar de um produto comercial em operação.
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/kaio-da-silva-brito-959892385
-- Portfólio: [Link do PDF]  
+[Portfólio Técnico (PDF)](assets/PORTIFOLIO_KAIO.pdf)
 - Email: mapadoconhecimentoapp@gmail.com
