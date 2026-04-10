@@ -1,0 +1,19 @@
+Hoje finalizei mais uma implementação dentro da plataforma: o NAVI, nosso chatbot inteligente de suporte e navegação dentro do app e do site.
+A ideia foi sair do modelo tradicional de “FAQ parado” e criar uma experiência de conversa guiada dentro do sistema.
+🤖 O que foi implementado:
+✔ Chatbot interno estilo suporte inteligente (NAVI)
+ ✔ Fluxo de respostas 100% estruturado (sem IA, tudo programado)
+ ✔ Navegação direta para áreas do sistema (planos, dúvidas, suporte)
+ ✔ Respostas contextuais baseadas nas escolhas do usuário
+ ✔ Integração com links externos (WhatsApp e comunidades)
+ ✔ Interface flutuante dentro do app com experiência contínua
+Do ponto de vista técnico, o NAVI foi construído com uma arquitetura simples e escalável baseada em:
+ChatService (controle de fluxo e mensagens)
+ChatWidget (renderização e interação)
+sistema de opções com navegação por estados
+💡 Na prática, o usuário não precisa mais procurar informações manualmente:
+ ele conversa com o sistema e é direcionado para o que precisa em poucos cliques.
+O objetivo dessa implementação é melhorar a experiência de navegação, reduzir fricção e aumentar a conversão dentro da plataforma, mantendo tudo leve, rápido e previsível.
+
+
+https://github.com/KaiodevMob/mapa-do-conhecimento-platform/blob/main/assets/chatbot.png
